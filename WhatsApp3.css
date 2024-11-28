@@ -1,0 +1,60 @@
+.content{
+    width: 100%;
+    height: 20%;
+    background: white;
+}
+#metaai{
+    width: 97%;
+    height: 70%;
+    background: #e0e0f4;
+    border-radius: 25px;
+    display: flex;
+}
+#askai{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+#metasearch{
+    width: 30px;
+    height: 30px;
+    background: black;
+    margin: 4px;
+    margin-left: 7px;
+    border-radius: 50%;
+}
+
+#metasearch img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.headertext{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+    
+    
+    
+}
+
+#metaai2{
+    width: 8%;
+    height: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+#metaai3{
+    width: 21%;
+    height: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
